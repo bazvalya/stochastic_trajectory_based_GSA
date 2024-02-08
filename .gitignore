@@ -1,3 +1,10 @@
+notebooks/data/data_PT/data_3_param/*.pickle
+notebooks/data/data_PT/data_3_param/*.pkl.lzma
+notebooks/data/data_PT/data_3_param/arrays_for_GDMaps/*.pkl.lzma
+
+**/.DS_Store
+**/.ipynb_checkpoints
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
